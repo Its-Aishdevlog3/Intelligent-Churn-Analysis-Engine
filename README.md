@@ -4,19 +4,6 @@ This project predicts customer churn in a telecom company using machine learning
 
 ---
 
-## 📁 Project Structure
-
-customer_churn_project/
-│
-├── data_set/
-│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│
-├── churn_prediction.py # Python script for EDA, preprocessing, model training
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
----
-
 ## 📌 Objective
 
 The objective is to identify customers who are likely to leave the service (churn) so that retention strategies can be applied.

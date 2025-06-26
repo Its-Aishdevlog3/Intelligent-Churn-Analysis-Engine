@@ -27,8 +27,6 @@ The objective is to identify customers who are likely to leave the service (chur
 
 - **Source**: Kaggle Sample Dataset
 - **File**: 'WA_Fn-UseC_-Telco-Customer-Churn.csv'
-- **Rows**: 21
-- **Columns**: 5
 - **Target**: 'Churn' (Yes/No)
 
 ---
@@ -44,15 +42,15 @@ The objective is to identify customers who are likely to leave the service (chur
 
 ## 🧱 Project Structure
 
-customer_churn_project/
-│
-├── data_set/
-│ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│
-├── churn_prediction.py # Main EDA, preprocessing, training script
-├── venv/ # Python virtual environment (optional)
-├── requirements.txt # List of required libraries
-└── README.md # Project overview
+# customer_churn_project/
+# │
+# ├── data_set/
+# │ └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+# │
+# ├── churn_prediction.py # Main EDA, preprocessing, training script
+# ├── venv/ # Python virtual environment (optional)
+# ├── requirements.txt # List of required libraries
+# └── README.md # Project overview
 
 ---
 
